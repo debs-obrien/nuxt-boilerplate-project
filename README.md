@@ -1,4 +1,6 @@
-# Nuxt Boilerplate Project
+# Nuxt Boilerplate
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e4fbcc69-c236-4b39-a6b4-919211e01e2e/deploy-status)](https://app.netlify.com/sites/nuxt-boilerplate-project/deploys)
 
 > This is an ever-evolving, very opinionated architecture and dev environment for new Nuxt projects using [Nuxt 2](https://nuxtjs.org/). This is inspired from (and most of the content taken from) the amazing Chris Fritz's [Vue Enterprise Boilerplate Project](https://github.com/chrisvfritz/vue-enterprise-boilerplate). Thanks Chris :)
 >
