@@ -33,6 +33,7 @@ export default {
    */
   generate: {
     fallback: true, // fallback to spa mode - default is 200.html
+    exclude: [/.unit/], // exclude unit tests from being generated
   },
   /*
    ** Global CSS
