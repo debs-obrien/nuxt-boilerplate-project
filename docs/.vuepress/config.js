@@ -1,7 +1,6 @@
 module.exports = {
   title: 'Nuxt Boilerplate Documentation',
   description: 'Everyting you need to know to work on this project',
-  //logo: '/',
 
   themeConfig: {
     nav: [
