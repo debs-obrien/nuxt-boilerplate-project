@@ -1,6 +1,6 @@
 # Nuxt Boilerplate Project
 
-> This is an ever-evolving, very opinionated architecture and dev environment for new Nuxt projects using [Nuxt 2](https://nuxtjs.org/). This is inspired from (and most of the content taken from) the amazing Chris Fritz's [Vue Enterprise Boilerplate Project](https://github.com/chrisvfritz/vue-enterprise-boilerplate). Thanks Chris
+> This is an ever-evolving, very opinionated architecture and dev environment for new Nuxt projects using [Nuxt 2](https://nuxtjs.org/). This is inspired from (and most of the content taken from) the amazing Chris Fritz's [Vue Enterprise Boilerplate Project](https://github.com/chrisvfritz/vue-enterprise-boilerplate). Thanks Chris :)
 >
 > This is for now just a work in progress and is nowhere near finished but the idea is that you can clone/download it and play around it with. I will try to constantly add to it so that it has more and more features that one might come across when building a Nuxt project. Have fun and feel free to reach out or submit a pull request if you see anything that needs to be added or fixed.
 
