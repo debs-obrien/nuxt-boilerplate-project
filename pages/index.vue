@@ -6,14 +6,18 @@
         nuxt-boilerplate-project
       </h1>
       <h2 class="subtitle">
-        Nuxt Boilerplate project
+        This is your Nuxt playground, clone, download and play around and have
+        fun with Nuxt.
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">
           Documentation
         </a>
+        <nuxt-link :to="localePath('my-components')" class="button--grey">
+          demo component
+        </nuxt-link>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/debs-obrien/nuxt-boilerplate-project"
           target="_blank"
           class="button--grey"
         >
@@ -29,8 +33,8 @@ import Logo from '~/components/Logo.vue'
 
 export default {
   components: {
-    Logo
-  }
+    Logo,
+  },
 }
 </script>
 
