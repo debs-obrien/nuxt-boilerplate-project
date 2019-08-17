@@ -1,4 +1,4 @@
-# Vue Enterprise Boilerplate
+# Nuxt Boilerplate Project
 
 > This is an ever-evolving, very opinionated architecture and dev environment for new Nuxt projects using [Nuxt 2](https://nuxtjs.org/). This is inspired from (and most of the content taken from) the amazing Chris Fritz's [Vue Enterprise Boilerplate Project](https://github.com/chrisvfritz/vue-enterprise-boilerplate). Thanks Chris
 >
