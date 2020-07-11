@@ -1,6 +1,6 @@
-# Linting & formatting
-
-[[toc]]
+---
+title: Linting & formatting
+---
 
 This project uses ESLint, Stylelint, Markdownlint, and Prettier to catch errors and avoid bikeshedding by enforcing a common code style.
 

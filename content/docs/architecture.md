@@ -1,6 +1,6 @@
-# Architecture
-
-[[toc]]
+---
+title: Architecture
+---
 
 <!-- ## `_templates`
 

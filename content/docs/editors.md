@@ -1,6 +1,6 @@
-# Editor integration
-
-[[toc]]
+---
+title: Editor integration
+---
 
 ## Visual Studio Code
 

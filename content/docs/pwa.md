@@ -1,4 +1,6 @@
-# PWA
+---
+title: PWA
+---
 
 Progressive Web Apps (PWA) are reliable, fast, and engaging.
 

@@ -1,4 +1,6 @@
-# Troubleshooting
+---
+title: Troubleshooting
+---
 
 These are some troubleshooting tips for more common issues people might run into while developing, including more information on what might be happening and how to fix the problem.
 

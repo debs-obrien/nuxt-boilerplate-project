@@ -1,6 +1,6 @@
-# Languages and technologies
-
-[[toc]]
+---
+title: Languages and technologies
+---
 
 ## JavaScript
 

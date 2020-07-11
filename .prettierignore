@@ -3,4 +3,5 @@
 /tests/unit/coverage/**
 /cypress/
 /.nuxt/
-docs/.vuepress/dist/
+assets/content.scss
+/static/

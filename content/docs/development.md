@@ -1,6 +1,6 @@
-# Setup and development
-
-[[toc]]
+---
+title: Setup and development
+---
 
 ## First-time setup
 

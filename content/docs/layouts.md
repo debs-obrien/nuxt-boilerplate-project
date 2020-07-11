@@ -1,4 +1,6 @@
-# Layouts
+---
+title: Layouts
+---
 
 We have 3 layouts in this project:
 

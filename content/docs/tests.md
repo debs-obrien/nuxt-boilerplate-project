@@ -1,8 +1,8 @@
-# Tests
+---
+title: Tests
+---
 
 Tests and mocking the API
-
-[[toc]]
 
 ## Running all tests
 

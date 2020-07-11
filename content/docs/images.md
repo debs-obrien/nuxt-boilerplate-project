@@ -1,4 +1,6 @@
-# Images
+---
+title: Images
+---
 
 ## Cloudinary
 

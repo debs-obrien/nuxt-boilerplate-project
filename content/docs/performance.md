@@ -1,4 +1,6 @@
-# Performance
+---
+title: Performance
+---
 
 Performance tests should be done in development to pick up on simple issues and again once deployed and then checked regualary.
 

@@ -10,12 +10,15 @@
         fun with Nuxt.
       </h2>
       <div class="links">
-        <a href="https://nuxtjs.org/" target="_blank" class="button--green">
-          Documentation
-        </a>
-        <nuxt-link :to="localePath('my-components')" class="button--grey">
-          demo component
+        <nuxt-link to="docs/architecture" class="button--grey">
+          Docs
         </nuxt-link>
+        <!-- <a href="https://nuxtjs.org/" target="_blank" class="button--green">
+          Documentation
+        </a> -->
+        <!-- <nuxt-link :to="localePath('my-components')" class="button--grey">
+          demo component
+        </nuxt-link> -->
         <a
           href="https://github.com/debs-obrien/nuxt-boilerplate-project"
           target="_blank"
@@ -38,7 +41,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 /* Sample `apply` at-rules with Tailwind CSS
 .container {
   @apply min-h-screen flex justify-center items-center text-center mx-auto;

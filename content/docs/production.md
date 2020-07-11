@@ -1,4 +1,6 @@
-# Building and deploying to production
+---
+title: Building and deploying to production
+---
 
 This site is a static generated site therefore we use the generate command to generate the static site.
 

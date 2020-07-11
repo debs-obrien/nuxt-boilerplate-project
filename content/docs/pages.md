@@ -1,4 +1,6 @@
-# Pages
+---
+title: Pages
+---
 
 This is where all our pages live. Every page that is added in here will be automatically code splitted thanks to Nuxt and therefore no router file is needed to maintain routes. As a standard pages should be named with a small letter and then camel casing.
 

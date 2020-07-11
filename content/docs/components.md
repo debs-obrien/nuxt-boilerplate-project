@@ -1,6 +1,6 @@
-# Components
-
-[[toc]]
+---
+title: Components
+---
 
 ## Standards and Naming
 

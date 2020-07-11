@@ -1,6 +1,6 @@
-# nuxt.config.js
-
-[[toc]]
+---
+title: nuxt.config.js
+---
 
 ## Mode
 
@@ -24,15 +24,9 @@ router: {
   },
 ```
 
-## Generate
+## Automatic generate of Dynamic routes
 
-If you want Nuxt.js to generate routes with dynamic params, you need to set an array of dynamic routes. For more options on generating using using functions that return a promise etc please see the [Nuxt Docs](https://nuxtjs.org/api/configuration-generate#the-generate-property).
-
-```js
-generate: {
-  routes: ['/users/1', '/users/2', '/users/3']
-}
-```
+Nuxt comes with a crawler installed that will crawl all your pages and generate your dynamic routes based on those links
 
 To exclude files that you do not want to be generated you can do so by adding the exclude option
 
@@ -46,7 +40,7 @@ if you want to use '404.html' instead of the default '200.html' set the fallback
 
 ```js
 generate: {
-  fallback: true
+  fallback: '404.html
 }
 ```
 

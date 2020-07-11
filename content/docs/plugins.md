@@ -1,4 +1,6 @@
-# Plugins
+---
+title: Plugins
+---
 
 ## Installed Plugins
 

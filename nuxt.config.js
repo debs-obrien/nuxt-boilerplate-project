@@ -1,7 +1,7 @@
 import i18n from './i18n'
 
 export default {
-  mode: 'universal',
+  target: 'static',
   /*
    ** Headers of the page
    */
@@ -38,7 +38,7 @@ export default {
   /*
    ** Global CSS
    */
-  css: ['~/assets/css/tailwind.css'],
+  css: ['~/assets/css/main.scss', '~/assets/css/tailwind.css'],
   /*
    ** Plugins to load before mounting the App
    */
@@ -58,7 +58,9 @@ export default {
     '@nuxtjs/pwa',
     '@nuxtjs/eslint-module',
     ['nuxt-i18n', i18n],
+    '@nuxt/content',
   ],
+  components: true,
 
   // globally load all our sass variables
   // styleResources: {
