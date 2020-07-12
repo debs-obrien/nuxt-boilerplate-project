@@ -15,7 +15,7 @@
     "lint:stylelint": "stylelint --fix",
     "lint:markdownlint": "markdownlint",
     "lint:prettier": "prettier --write --loglevel warn",
-    "lint:all:eslint": "yarn lint:eslint --ext .js,.vue .",
+    "lint:all:eslint": "yarn lint:eslint --ext .js,.vue --ignore-path .gitignore .",
     "lint:all:stylelint": "yarn lint:stylelint \"**/*.{vue,scss}\"",
     "lint:all:markdownlint": "yarn lint:markdownlint \"docs/*.md\" \"*.md\"",
     "lint:all:prettier": "yarn lint:prettier \"**/*.{js,json,css,scss,vue,html,md}\"",
