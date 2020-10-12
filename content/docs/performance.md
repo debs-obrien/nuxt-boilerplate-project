@@ -20,8 +20,8 @@ Code Coverage is great for checking if you are loading too much unused code espe
 
 This tool is great for checking if your CSS is bigger than it should be or if you are loading to many colours etc. [CSSStats](https://cssstats.com/).
 
-## Accesability and SEO
+## Accessibility and SEO
 
-We can check if our SEO and Asscesability is correct with this [tool](http://wave.webaim.org/report#/patterson.travel/privacidad). This will show us if we have h1 tags on the page alt tags etc.
+We can check if our SEO and Accessibility is correct with this [tool](http://wave.webaim.org/report#/patterson.travel/privacidad). This will show us if we have h1 tags on the page alt tags etc.
 
-You can also use chrome dev tools to hover over any item to see the color contrast ratio and to see if it passes the accesability requirements.
+You can also use chrome dev tools to hover over any item to see the color contrast ratio and to see if it passes the accessibility requirements.
