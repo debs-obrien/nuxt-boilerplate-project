@@ -11,7 +11,7 @@
 - [**Thorough documentation**](#documentation): Written with the same care as Vue's core docs to quickly train new team members and consolidate knowledge.
 - [**Guaranteed consistency**](docs/linting.md): Opinionated linting for Vue, JavaScript/JSON, SCSS, and Markdown, integrated into Visual Studio Code and run against staged files on pre-commit.
 - [**First-class tests**](docs/tests.md): Practice test-driven development with both unit and end-to-end tests. Unit tests with Jest live as first-class citizens alongside your source files, while Cypress provides reliable end-to-end tests in an intuitive GUI for development. - coming soon
-- [**Speedy development**](docs/development.md): [configurable generators](docs/development.md#generators)so your productivity will skyrocket.
+- [**Speedy development**](docs/development.md): [configurable generators](docs/development.md#generators) so your productivity will skyrocket.
 
 ## Getting started
 
@@ -32,25 +32,25 @@ yarn
 
 This project includes a `docs` folder with more details on:
 
-- [Architecture](docs/architecture.md)
-- [Components](docs/components.md)
-- [Setup and development](docs/development.md)
-- [Docs](docs/docs.md)
-- [i18n](docs/i18n.md)
-- [images](docs/images.md)
-- [layouts](docs/layouts.md)
-- [nuxt config](docs/nuxt.config.md)
-- [package.json](docs/package.json.md)
-- [pages](docs/pages.md)
-- [performance](docs/performance.md)
-- [plugins](docs/plugins.md)
-- [pwa](docs/pwa.md)
-- [Languages and technologies](docs/tech.md)
-- [Tests and mocking the API](docs/tests.md)
-- [Linting and formatting](docs/linting.md)
-- [Editor integration](docs/editors.md)
-- [Building and deploying to production](docs/production.md)
-- [Troubleshooting](docs/troubleshooting.md)
+- [Architecture](content/docs/architecture.md)
+- [Components](content/docs/components.md)
+- [Setup and development](content/docs/development.md)
+- [Docs](content/docs/docs.md)
+- [i18n](content/docs/i18n.md)
+- [images](content/docs/images.md)
+- [layouts](content/docs/layouts.md)
+- [nuxt config](content/docs/nuxt.config.md)
+- [package.json](content/docs/package.json.md)
+- [pages](content/docs/pages.md)
+- [performance](content/docs/performance.md)
+- [plugins](content/docs/plugins.md)
+- [pwa](content/docs/pwa.md)
+- [Languages and technologies](content/docs/tech.md)
+- [Tests and mocking the API](content/docs/tests.md)
+- [Linting and formatting](content/docs/linting.md)
+- [Editor integration](content/docs/editors.md)
+- [Building and deploying to production](content/docs/production.md)
+- [Troubleshooting](content/docs/troubleshooting.md)
 
 ## FAQ
 
